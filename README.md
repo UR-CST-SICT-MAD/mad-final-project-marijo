@@ -2,8 +2,8 @@
 # Final Project M.A.D 2021 (for Both IT & IS)
 
 1.  Department:
-2.  Member 1 Reg No:
-3.  Member 2 Reg No:
+2.  Member 1 Reg No: 219003640
+3.  Member 2 Reg No: 218013342
 
 
 Welcome to the final project
