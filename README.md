@@ -30,4 +30,8 @@ in this final project you are going to put everything together to create a fully
 3.  [Youtube: Figma](https://www.youtube.com/watch?v=PeGfX7W1mJk)
 
 
+# Credentials For Testing App 
+## Email:inezarolande@gmail.com
+## Password: testing123
+
 ##### For any specific challenge on the project you can reach me via MS teams class channel.
